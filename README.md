@@ -8,11 +8,6 @@ Up-and-coming full-stack developer and graphic designer with an extensive bakgro
 
 
 ## Education
-| Education        |
-| :--------------: |
-| Highly Doubt This Will Work                                 |
-| --------------- |:---------------------:| -----------------:|
-| Maker's Academy | London, United Kingom | 2018 - Present    |
 #### Maker's Academy, London, United Kingdom: 2018 - Present
 *Full Stack Development*
 * In Progress!
@@ -80,21 +75,22 @@ Up-and-coming full-stack developer and graphic designer with an extensive bakgro
 *	Proctored each event, every session, taking over for the instructor when necessary
 
 #### Tools & Technology
-| :---------------: |:--------:| :----------------:|
-| HTML5             | Firebase | GitHub            |
-| CSS3              | Parse    | Bitbucket         |
-| Twitter Bootstrap | Jasmine  | Python            |
-| jQuery            | Karma    | C                 |
-| Node.js           | MongoDB  | C++               |
-| Express           | Ionic    | Adobe Photoshop   |
-| JSON              | Git      | Adobe Illustrator |
+| Advanced          | Proficient | Beginner   |
+| :---------------: | :--------: | :--------: |
+| HTML5             | Git        | Parse      |
+| CSS3              | GitHub     | Bitbucket  |
+| Javascript        | Firebase   | Jasmine    |
+| Twitter Bootstrap | Python     | C          |
+| Node.js           | jQuery     | C++        |
+| Express           |            | Ionic      |
+| JSON              |            | MongoDB    |
 
-* HTML5
-* CSS3
-* Twitter Bootstrap
-* jQuery
-* Node.js
-* Express
+* HTML5                Firebase
+* CSS3                 Parse
+* Twitter Bootstrap    Jasmine
+* jQuery               Karma
+* Node.js              MongoDB
+* Express              Ionic
 * JSON
 * Firebase
 * Parse
