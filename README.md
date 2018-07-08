@@ -1,10 +1,17 @@
 # Marek W Schmidt
 Up-and-coming full-stack developer and graphic designer with an extensive bakground in computer engineering, as well as a passion for UI and UX. Often described as a quick learning, motivated, and cooperative worker who is flexible in many work environments and atmospheres. Has a proven ability to creatively problem solve and meet deadlines under varying restraints or restrictions.
 
-[Skills](#skills)[Professional Experience](#professional-experience) | [Volunteer Work](#volunteer-work) | [Education](#education) | [Tools & Technology](#tools-&-technology) | [Hobbies & Interests](#hobbies-&-interests) | [Beautified CV](https://i.imgur.com/rEmLBDG.jpg) | [LinkedIn](https://www.linkedin.com/in/marekwschmidt
+[Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Volunteer Work](#volunteer-work) | [Tools and Technology](#tools-and-technology) | [Certificates and Awards](#certificates-and-awards) | [Hobbies and Interests](#hobbies-and-interests) | [Languages](#languages) | [Beautified CV](https://i.imgur.com/rEmLBDG.jpg) | [LinkedIn](https://www.linkedin.com/in/marekwschmidt)
 
 ## Skills
-#### Logical Thinking & Analysis
+#### Logical Thinking and Analysis
+Need to get back to this with a concrete example! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis turpis eleifend mauris viverra efficitur. Aliquam pharetra nisi placerat lacus semper, id bibendum risus dignissim. Donec commodo sapien sit amet tellus accumsan ornare. Nulla nibh turpis, pharetra ac tellus sit amet, dignissim fermentum nisl. Nullam vitae cursus tortor, volutpat ornare ante.
+
+#### UI / UX
+I am always trying to improve the "look and feel" of my projects. I strive to make the use of my creations be as easy and enjoyable as possible. Wether this drive manifests itself in the form of a beautiful interface or a well-commented javascript file, the user seeing it will appreciate the duality of power and grace being displayed.
+
+#### Efficiency with Planning
+While this stems from my first skill of logical thinking, I believe it is important enough to emphasize on it's own. I strongly dislike wasting time or resources. In order to reduce my waste I have grown a habit of planning out each of my goals in a way that will save time and effort. If two things have to be done, it is crucial to complete them in the order that will not cause extra work. The simplest way I can explain this is I will always dry from the top down, never the bottom up. Efficiency is pivotal in both programming and in life.
 
 
 ## Education
@@ -74,45 +81,25 @@ Up-and-coming full-stack developer and graphic designer with an extensive bakgro
 *	Assigned to theme and design each event
 *	Proctored each event, every session, taking over for the instructor when necessary
 
-#### Tools & Technology
-| Advanced          | Proficient | Beginner   |
-| :---------------: | :--------: | :--------: |
-| HTML5             | Git        | Parse      |
-| CSS3              | GitHub     | Bitbucket  |
-| Javascript        | Firebase   | Jasmine    |
-| Twitter Bootstrap | Python     | C          |
-| Node.js           | jQuery     | C++        |
-| Express           |            | Ionic      |
-| JSON              |            | MongoDB    |
+## Tools and Technology
+| *Advanced*        | *Proficient* | *Beginner* |
+| :---------------: | :--------:   | :--------: |
+| HTML5             | Git          | Parse      |
+| CSS3              | GitHub       | Bitbucket  |
+| Javascript        | Firebase     | Jasmine    |
+| Twitter Bootstrap | Python       | C          |
+| Node.js           | jQuery       | C++        |
+| Express           |              | Ionic      |
+| JSON              |              | MongoDB    |
+| Adobe Photoshop   |              | Heroku     |
+| Adobe Illustrator |              |            |
 
-* HTML5                Firebase
-* CSS3                 Parse
-* Twitter Bootstrap    Jasmine
-* jQuery               Karma
-* Node.js              MongoDB
-* Express              Ionic
-* JSON
-* Firebase
-* Parse
-* Jasmine
-* Karma
-* MongoDB
-* Ionic
-* Git
-* GitHub
-* Bitbucket
-* Python
-* C
-* C++
-* Adobe Photoshop
-* Adobe Illustrator
-
-#### Certificates & Awards
+## Certificates and Awards
 * NRF Customer Service and Sales Certification: 2015
 * Honors Engineering (Honors Program) at University of California, Santa Barbara: 2012
 * National Society of High School Scholars: 2012
 
-#### Hobbies & Interests
+## Hobbies and Interests
 *Design*
 * I have a deep passion for making things look as good as they can. This passion expresses itself throughout a large quantity of mediums, often without me noticing! Firstly, I will always strive to make my websites and web apps not only functional, but also beautiful. My work, however, is not the only place where this is true. I have grown interests in activities such as graphic design, game design, woodworking, cooking, home decorating, and fashion all because of my love for things that look great! (Checkout a graphical version of my old CV, link is at the top of this page!)
 
@@ -120,6 +107,6 @@ Up-and-coming full-stack developer and graphic designer with an extensive bakgro
 *Gaming*
 * Growing up around computers was a very easy way to grow fond of and embrace computer gaming as a hobby. To me, video games are the perfect showcase for combining amazing art, high-level problem solving, beautiful sounds and music, and of course, outstanding user experience. Each of these aspects on their own are influenced heavily by design, and to see all of these passions of mine come together in one place is an amazing thing.
 
-#### Languages
+## Languages
 * Fluent in English
 * Some Chinese (Mandarin), out of practice
