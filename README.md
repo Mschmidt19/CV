@@ -8,8 +8,9 @@ Up-and-coming full-stack developer and graphic designer with an extensive bakgro
 
 
 ## Education
-| :--------------: |
 | Education        |
+| :--------------: |
+| Highly Doubt This Will Work                                 |
 | --------------- |:---------------------:| -----------------:|
 | Maker's Academy | London, United Kingom | 2018 - Present    |
 #### Maker's Academy, London, United Kingdom: 2018 - Present
