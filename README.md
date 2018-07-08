@@ -103,4 +103,8 @@ Design
 * I have a deep passion for making things look as good as they can. This passion expresses itself throughout a large quantity of mediums, often without me noticing! Firstly, I will always strive to make my websites and web apps not only functional, but also beautiful. My work, however, is not the only place where this is true. I have grown interests in activities such as graphic design, game design, woodworking, cooking, home decorating, and fashion all because of my love for things that look great!
 
 Gaming
-* Growing up around computers was a very easy way to grow fond of and embrace computer gaming as a hobby. To me, video games are the perfect showcase for combining amazing art, high-level problem solving, beautiful sounds and music, and of course, outstanding user experience. Each of these aspects on their own are influenced heavily by design, and to see all of these passions of mine come together in one place is an amazing thing. 
+* Growing up around computers was a very easy way to grow fond of and embrace computer gaming as a hobby. To me, video games are the perfect showcase for combining amazing art, high-level problem solving, beautiful sounds and music, and of course, outstanding user experience. Each of these aspects on their own are influenced heavily by design, and to see all of these passions of mine come together in one place is an amazing thing.
+
+#####Languages#####
+* Fluent in English
+* Some Chinese (Mandarin), out of practice 
