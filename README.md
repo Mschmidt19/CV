@@ -13,7 +13,6 @@ I am always trying to improve the "look and feel" of my projects. I strive to ma
 #### Efficiency with Planning
 While this stems from my first skill of logical thinking, I believe it is important enough to emphasize on it's own. I strongly dislike wasting time or resources. In order to reduce my waste I have grown a habit of planning out each of my goals in a way that will save time and effort. If two things have to be done, it is crucial to complete them in the order that will not cause extra work. The simplest way I can explain this is I will always dry from the top down, never the bottom up. Efficiency is pivotal in both programming and in life.
 
-
 ## Education
 #### Maker's Academy, London, United Kingdom: 2018 - Present
 *Full Stack Development*
