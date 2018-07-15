@@ -99,16 +99,16 @@ While this stems from my first skill of logical thinking, I believe it is import
 * National Society of High School Scholars: 2012
 
 ## Hobbies and Interests
-*Design*
+*Design*  
 I have a deep passion for making things look as good as they can. This passion expresses itself throughout a large quantity of mediums, often without me noticing! Firstly, I will always strive to make my websites and web apps not only functional, but also beautiful. My work, however, is not the only place where this is true. I have grown interests in activities such as graphic design, game design, woodworking, cooking, home decorating, and fashion all because of my love for things that look great! (Checkout a graphical version of my old CV, link is at the top of this page!)
 
-*Gaming*
+*Gaming*    
 Growing up around computers was a very easy way to grow fond of and embrace computer gaming as a hobby. To me, video games are the perfect showcase for combining amazing art, high-level problem solving, beautiful sounds and music, and of course, outstanding user experience. Each of these aspects on their own are influenced heavily by design, and to see all of these passions of mine come together in one place is an amazing thing.
 
-*Hiking and Camping*
+*Hiking and Camping*   
 Shockingly, sometimes I like to look away from my computer screen! There is no better sight to rest my eyes with than a landscape untouched by all the technology I hold so dear.
 
-*Augmented Reality, Virtual Reality, and Artificial Intelligence*
+*Augmented Reality, Virtual Reality, and Artificial Intelligence*   
 When I worked for Interact.Agency I was lucky enough to attend the Augmented World Expo event I was helping to promote. Though I have very little experience working with any of these, I was enthralled by all the incredible possibilities that these prospects hold. I would love to someday delve into those fields in a project of mine.
 
 ## Languages
