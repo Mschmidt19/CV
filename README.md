@@ -1,7 +1,7 @@
 # Marek W Schmidt
 Up-and-coming full-stack developer and graphic designer with an extensive bakground in computer engineering, as well as a passion for UI and UX. Often described as a quick learning, motivated, and cooperative worker who is flexible in many work environments and atmospheres. Has a proven ability to creatively problem solve and meet deadlines under varying restraints or restrictions.
 
-[Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Volunteer Work](#volunteer-work) | [Tools and Technology](#tools-and-technology) | [Certificates and Awards](#certificates-and-awards) | [Hobbies and Interests](#hobbies-and-interests) | [Languages](#languages) | [Beautified CV](https://i.imgur.com/rEmLBDG.jpg) | [LinkedIn](https://www.linkedin.com/in/marekwschmidt)
+[Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Volunteer Work](#volunteer-work) | [Tools and Technology](#tools-and-technology) | [Certificates and Awards](#certificates-and-awards) | [Hobbies and Interests](#hobbies-and-interests) | [Languages](#languages) | [Beautified (old) CV](https://i.imgur.com/rEmLBDG.jpg) | [LinkedIn](https://www.linkedin.com/in/marekwschmidt)
 
 ## Skills
 #### Logical Thinking and Analysis
