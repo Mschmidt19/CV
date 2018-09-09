@@ -1,22 +1,33 @@
 # Marek W Schmidt
-Up-and-coming full-stack developer and graphic designer with an extensive bakground in computer engineering, as well as a passion for UI and UX. Often described as a quick learning, motivated, and cooperative worker who is flexible in many work environments and atmospheres. Has a proven ability to creatively problem solve and meet deadlines under varying restraints or restrictions.
+I am a full-stack software engineer with an extensive background in graphic design. Always up for new challenges, I am often described as a quick learning, detail-oriented, and cooperative worker who is flexible in many work environments and atmospheres. I am currently in the last month of a 16-week course at Maker's Academy, London, rapidly increasing my skills as a developer using principles such as TDD, DRY, SRP, and XP values.
 
-[Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Volunteer Work](#volunteer-work) | [Tools and Technology](#tools-and-technology) | [Certificates and Awards](#certificates-and-awards) | [Hobbies and Interests](#hobbies-and-interests) | [Languages](#languages) | [Beautified CV](https://i.imgur.com/rEmLBDG.jpg) | [LinkedIn](https://www.linkedin.com/in/marekwschmidt)
+[Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Volunteer Work](#volunteer-work) | [Tools and Technology](#tools-and-technology) | [Certificates and Awards](#certificates-and-awards) | [Hobbies and Interests](#hobbies-and-interests) | [Beautified CV](https://i.imgur.com/rEmLBDG.jpg) | [LinkedIn](https://www.linkedin.com/in/marekwschmidt)
+
+## Tools and Technology
+| *Title* | *Description* | *Time-frame* | *Technologies Used* |  
+| :-----: | :-----------: | :----------: | :-----------------: |  
+| [Acebook](https://github.com/Mschmidt19/acebook-Team-and-a-half) | The second group project while attending Maker's, we were tasked to build a Facebook clone using Ruby on Rails, a framework that nobody in the group had used previously. With an emphasis on teamwork and imitating a continuous deployment environment, we had many challenges to overcome. | Two weeks | Ruby on Rails, HTML, CSS, Javascript, jQuery, PostgreSQL, Heroku, Travis CI, Rspec, and Capybara |  
+| [MakersBnB](https://github.com/Mschmidt19/Makersbnb) | Having now seen five weeks of on-site training and the introduction of our second language (Javascript), it was time to put our learning at Makers to the test. A group of five were tasked with recreating AirBnB in a tech-stack of our choice. Never backing down from a challenge, we took our extensive one week of knowledge in Javascript and our complete lack of experience in online databases and set out to make something great. | Five days | Javascript, HTML, CSS, Jasmine, Cypress, and Firebase Firestore |  
+| [Thermostat](https://mschmidt19.github.io/ThermostatJS/) | During our first week of learning Javascript we had multiple small challenges, culminating in the creation of a mock thermostat application. The idea is simple, use a weather API to receive live information on the current temperature of different areas. With this knowledge, we can set the climate-control of each of our several luxurious homes worldwide in order to match. | Five days total, approximately three working on thermostat itself | Javascript, Jasmine, jQuery, HTML, CSS, Bootstrap, and Google Drawings for art |
 
 ## Skills
-#### Logical Thinking and Analysis
-Need to get back to this with a concrete example! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis turpis eleifend mauris viverra efficitur. Aliquam pharetra nisi placerat lacus semper, id bibendum risus dignissim. Donec commodo sapien sit amet tellus accumsan ornare. Nulla nibh turpis, pharetra ac tellus sit amet, dignissim fermentum nisl. Nullam vitae cursus tortor, volutpat ornare ante.
+#### Clean code and readability
+I have a strong belief that all code should be written with future developers in mind. Proper code-styling, consistency in naming conventions, and class extraction all help alleviate the "perfectionist" side of me. I try to make my code easy to understand from any outside perspective. In the case of group projects, this has best been achieved through planning, refactoring, and most of all, ongoing communication.
+
+#### Adaptability
+So far my life has taken me on a path that I would not have predicted. Unfortunate circumstances took me away from the career that I loved for some time, it has moved me to many new areas, and still I have remained resilient. I like to think that this has granted me the ability to see change not as an enemy, but as a welcome challenge. In the workplace this can be greatly beneficial, for instance in my latest group project we were getting worried about the state of our project and the amount of time we had remaining. As a group, we decided to communicate and explain to each other what our goals were; what did we want to achieve from this task? As it turned out, I was outnumbered. I was intent on delivering the best product possible where many of my teammates were more content with cutting back on features in order to dive deeper into understanding. It was a bit of an eye-opener, to realize our goals were not aligned, but I took a step back and adapted to my team's perspective. We implemented a self-imposed feature freeze, allowing time to refactor, add more tests, and share knowledge with each other about areas we had not written ourselves. In time this lead to a burst of efficiency and many more features later that week. It was a humbling experience, but I'm glad to have learned that there are always new ways to solve a problem.
 
 #### UI / UX
-I am always trying to improve the "look and feel" of my projects. I strive to make the use of my creations be as easy and enjoyable as possible. Wether this drive manifests itself in the form of a beautiful interface or a well-commented javascript file, the user seeing it will appreciate the duality of power and grace being displayed.
-
-#### Efficiency with Planning
-While this stems from my first skill of logical thinking, I believe it is important enough to emphasize on it's own. I strongly dislike wasting time or resources. In order to reduce my waste I have grown a habit of planning out each of my goals in a way that will save time and effort. If two things have to be done, it is crucial to complete them in the order that will not cause extra work. The simplest way I can explain this is I will always dry from the top down, never the bottom up. Efficiency is pivotal in both programming and in life.
+I am always trying to improve the "look and feel" of my projects. Having a background in graphic design, this is most often portrayed in the front-end of my projects. Front-end, however, is not the only place this is employed. Code-styling, organization, and thoughtful naming can accomplish the same task in the back-end side of a project just as a thoughtful yet concise README can accomplish this for a first-time user. I am an advocate of easy-to-use, sleek, and thoughtful products that are precisely created with the end-user in mind.
 
 ## Education
 #### Maker's Academy, London, United Kingdom: 2018 - Present
 *Full Stack Development*
-* In Progress!
+* 16 weeks (4 remote, 12 on site) honing my skills as a full-stack software engineer.  
+* Promotes TDD, DRY, clean code, teamwork, respect, mindfulness, and acceptance.  
+* Daily pair-programming throughout the majority of the course improves communication skills, self-awareness, and of course, programming ability
+* Time for self-driven work allows us to focus on areas we believe we  most need improvement, or to pursue interests that may not be part of the standard curriculum.
+* Multiple group projects simulate real-world, team-work environments with stand-ups, retros, sprint-planning, task delegation, and most of all thoughtful communication.
 
 #### School of Devs, Newport Beach, California: 2015
 *MEAN Stack Development*
@@ -80,19 +91,6 @@ While this stems from my first skill of logical thinking, I believe it is import
 *	Assigned to theme and design each event
 *	Proctored each event, every session, taking over for the instructor when necessary
 
-## Tools and Technology
-| *Advanced*        | *Proficient* | *Beginner* |
-| :---------------: | :--------:   | :--------: |
-| HTML5             | Git          | Parse      |
-| CSS3              | GitHub       | Bitbucket  |
-| Javascript        | Firebase     | Jasmine    |
-| Twitter Bootstrap | Python       | C          |
-| Node.js           | jQuery       | C++        |
-| Express           |              | Ionic      |
-| JSON              |              | MongoDB    |
-| Adobe Photoshop   |              | Heroku     |
-| Adobe Illustrator |              |            |
-
 ## Certificates and Awards
 * NRF Customer Service and Sales Certification: 2015
 * Honors Engineering (Honors Program) at University of California, Santa Barbara: 2012
@@ -110,7 +108,3 @@ Shockingly, sometimes I like to look away from my computer screen! There is no b
 
 *Augmented Reality, Virtual Reality, and Artificial Intelligence*
 When I worked for Interact.Agency I was lucky enough to attend the Augmented World Expo event I was helping to promote. Though I have very little experience working with any of these, I was enthralled by all the incredible possibilities that these prospects hold. I would love to someday delve into those fields in a project of mine.
-
-## Languages
-* Fluent in English
-* Some Chinese (Mandarin), out of practice
