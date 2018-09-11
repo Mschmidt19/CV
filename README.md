@@ -1,7 +1,7 @@
 # Marek W Schmidt
 I am a full-stack software engineer with an extensive background in graphic design. Always up for new challenges, I am often described as a quick learning, detail-oriented, and cooperative worker who is flexible in many work environments and atmospheres. I am currently in the last month of a 16-week course at Maker's Academy, London, rapidly increasing my skills as a developer using principles such as TDD, DRY, SRP, and XP values.
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Volunteer Work](#volunteer-work) | [Certificates and Awards](#certificates-and-awards) | [Hobbies and Interests](#hobbies-and-interests) | [Beautified CV](https://i.imgur.com/rEmLBDG.jpg) | [LinkedIn](https://www.linkedin.com/in/marekwschmidt)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Volunteer Work](#volunteer-work) | [Hobbies and Interests](#hobbies-and-interests) | [Beautified CV](https://i.imgur.com/rEmLBDG.jpg) | [LinkedIn](https://www.linkedin.com/in/marekwschmidt)
 
 ## Projects
 | *Title* | *Description* | *Time-frame* | *Technologies Used* |  
@@ -90,11 +90,6 @@ I am always trying to improve the "look and feel" of my projects. Having a backg
 *	Assigned to community outreach for gifts and swag
 *	Assigned to theme and design each event
 *	Proctored each event, every session, taking over for the instructor when necessary
-
-## Certificates and Awards
-* NRF Customer Service and Sales Certification: 2015
-* Honors Engineering (Honors Program) at University of California, Santa Barbara: 2012
-* National Society of High School Scholars: 2012
 
 ## Hobbies and Interests
 *Design*  
