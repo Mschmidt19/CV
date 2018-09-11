@@ -66,7 +66,7 @@ I am always trying to improve the "look and feel" of my projects. Having a backg
 * Edited web and social media content, ensuring quality, clarity, demographic relevance, and consistency in branding
 
 ## Volunteer Work
-#### vNext Orange County user group: 2010 - 2012
+#### vNext Orange County User Group: 2010 - 2012
 *Online Show Producer & Board Member*
 * Utilized multiple cameras, BlackMagic Intensity Pro HDMI capture card, lavalier microphones, a sound board, Ustream Pro, and Vimeo Pro to professionally stream, record, edit, customize, produce, and publish online every meeting
 * Co-organized and planned each meeting and special event from start to finish
