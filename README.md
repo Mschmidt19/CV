@@ -44,7 +44,7 @@ I am always trying to improve the "look and feel" of my projects. Having a backg
 * Studied cognitive neuroscience, Latin, and British cultural history
 
 ## Professional Experience
-#### 'Artificial Intelligence & Analytics on AWS'
+#### 'Artificial Intelligence & Analytics on AWS', 2018 - Present
 *Illustrator*
 * Illustrator for a yet-to-be-released book on AWS ([book cover](https://imgur.com/a/MJfqTKd))
 * Created graphics and annotated screenshots to provide a visual aid for difficult concepts
