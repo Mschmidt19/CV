@@ -16,13 +16,13 @@ I am a full-stack software engineer with an extensive background in graphic desi
 I have a strong belief that all code should be written with future developers in mind. Proper code-styling, consistency in naming conventions, and class extraction all help alleviate the "perfectionist" side of me. I try to make my code easy to understand from any outside perspective. In the case of group projects, this has best been achieved through planning, refactoring, and most of all, ongoing communication.
 
 #### Adaptability
-So far my life has taken me on a path that I would not have predicted. Unfortunate circumstances took me away from the career that I loved for some time, it has moved me to many new areas, and still I have remained resilient. I like to think that this has granted me the ability to see change not as an enemy, but as a welcome challenge. In the workplace this can be greatly beneficial, for instance in my latest group project we were getting worried about the state of our project and the amount of time we had remaining. As a group, we decided to communicate and explain to each other what our goals were; what did we want to achieve from this task? As it turned out, I was outnumbered. I was intent on delivering the best product possible where many of my teammates were more content with cutting back on features in order to dive deeper into understanding. It was a bit of an eye-opener, to realize our goals were not aligned, but I took a step back and adapted to my team's perspective. We implemented a self-imposed feature freeze, allowing time to refactor, add more tests, and share knowledge with each other about areas we had not written ourselves. In time this lead to a burst of efficiency and many more features later that week. It was a humbling experience, but I'm glad to have learned that there are always new ways to solve a problem.
+So far my life has taken me on a path that I would not have predicted. Unfortunate circumstances took me away from the career that I loved for some time, it has moved me to many new areas, and still I have remained resilient. I like to think that this has granted me the ability to see change not as an enemy, but as a welcome challenge. In the workplace this can be greatly beneficial, for instance in a recent group project we were getting worried about the state of our project and the amount of time we had remaining. As a group, we decided to communicate and explain to each other what our goals were; what did we want to achieve from this task? As it turned out, I was outnumbered. I was intent on delivering the best product possible where many of my teammates were more content with cutting back on features in order to dive deeper into understanding. It was a bit of an eye-opener, to realize our goals were not aligned, but I took a step back and adapted to my team's perspective. We implemented a self-imposed feature freeze, allowing time to refactor, add more tests, and share knowledge with each other about areas we had not written ourselves. In time this lead to a burst of efficiency and many more features later that week. It was a humbling experience, but I'm glad to have learned that there are always new ways to solve a problem.
 
 #### UI / UX
 I am always trying to improve the "look and feel" of my projects. Having a background in graphic design, this is most often portrayed in the front-end of my projects. Front-end, however, is not the only place this is employed. Code-styling, organization, and thoughtful naming can accomplish the same task in the back-end side of a project just as a thoughtful yet concise README can accomplish this for a first-time user. I am an advocate of easy-to-use, sleek, and thoughtful products that are precisely created with the end-user in mind.
 
 ## Education
-#### Maker's Academy, London, United Kingdom: 2018 - Present
+#### Maker's Academy, London, United Kingdom: 2018
 *Full Stack Development*
 * 16 weeks (4 remote, 12 on site) honing my skills as a full-stack software engineer.  
 * Promotes TDD, DRY, clean code, teamwork, respect, mindfulness, and acceptance.  
@@ -44,6 +44,13 @@ I am always trying to improve the "look and feel" of my projects. Having a backg
 * Studied cognitive neuroscience, Latin, and British cultural history
 
 ## Professional Experience
+#### 'Artificial Intelligence & Analytics on AWS'
+*Illustrator*
+* Illustrator for a yet-to-be-released book on AWS ([book cover](https://imgur.com/a/MJfqTKd))
+* Created graphics and annotated screenshots to provide a visual aid for difficult concepts
+* Ensured all graphics and annotations comply to Manning publication standards
+* Assisted in creation of the book's [website](http://ai-advanced-insights-aws.co/)
+
 #### In-N-Out Burger, Costa Mesa, California & Las Vegas, Nevada: 2015 - Present (on leave)
 *Level 5 Associate*
 * Worked in an extremely fast-paced and changing environment
